@@ -1,3 +1,19 @@
+# Dashboard
+![alt text](image-4.png)
+
+# Adicionar Transação
+![alt text](image-1.png)
+
+# Adicionar Conta
+![alt text](image-2.png)
+
+# Todas as transações
+![alt text](image-3.png)
+
+# Conta
+![alt text](image-5.png)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">

@@ -1,0 +1,67 @@
+.card-dashboard{
+    margin: 10px;
+    width: 500px;
+    height: 200px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.card-dashboard:hover{
+    transform: scale(1.05);
+}
+
+.card-dashboard *{
+    color: #fff;
+}
+
+.card-dashboard h1{
+    font-size: 30px;
+    text-align: center;
+}
+
+.card-dashboard h1:nth-child(2){
+    margin-top: 20px;
+    font-size: 45px;
+}
+
+
+.btn-add-transition{
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    /* background: red; */
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
+
+.btn-add-transition img{
+    width: 100%;
+    height: 100%;
+}
+
+
+.title-dashboard{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 50px;
+}
+
+.title-pages{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+
+@media screen and (max-width: 1577px) {
+    .card-dashboard{
+        width: 400px;
+    }
+}
+
+@media screen and (max-width: 430px) {
+    .card-dashboard{
+        width: 100%;
+    }
+}
